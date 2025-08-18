@@ -95,3 +95,21 @@ def genetic_algorithm():
 
 if __name__ == "__main__":
     genetic_algorithm()
+
+
+Output: 
+Gen 1: Best Distance = 560.08
+Gen 51: Best Distance = 459.99
+Gen 101: Best Distance = 459.99
+Gen 151: Best Distance = 459.99
+Gen 201: Best Distance = 459.99
+Gen 251: Best Distance = 459.99
+Gen 301: Best Distance = 459.99
+Gen 351: Best Distance = 459.99
+Gen 401: Best Distance = 459.99
+Gen 451: Best Distance = 459.99
+Gen 500: Best Distance = 459.99
+
+Best route found:
+[9, 7, 6, 1, 3, 5, 2, 0, 4, 8]
+Total distance: 459.99
